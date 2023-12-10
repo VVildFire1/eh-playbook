@@ -7,8 +7,8 @@ Welcome to my Penetration Testing Playbook! This repository serves as both a ste
 1. Getting Started
 2. Phases of Penetration Testing
    - Reconnaissance
-   - Scanning
-   - Gaining Access
+   - [Scanning](<[Scanning](3%20Scanning.md)>)
+   - [Gaining Access](<[Gaining Access](4%20Gaining%20Access.md)>)
    - Maintaining Access
    - Covering Tracks
 3. Contribution Guidelines
